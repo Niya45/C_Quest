@@ -1,2 +1,2 @@
-# Py_Proj
-Projects made with python
+# 
+Attempt at learning C
