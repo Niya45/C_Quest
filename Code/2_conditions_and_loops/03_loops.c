@@ -41,7 +41,7 @@ int main() {
     } // Output will be: 0 1 3 4
     printf("\n"); 
 
-    // 4. Null Terminator : 
+    // 4. Null Statement : 
     nullStatement();
 
     return 0;
